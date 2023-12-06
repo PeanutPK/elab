@@ -1,0 +1,7 @@
+x = input('Enter x: ')
+y = input('Enter y: ')
+x = int(x)
+y = int(y)
+print(type(x))
+print(type(y))
+print(x+y)
